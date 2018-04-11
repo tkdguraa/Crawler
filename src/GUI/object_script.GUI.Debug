@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\mystring.o
+./debug\avl.o
+./debug\term.o
+./debug\mystack.o
+./debug\others.o
+./debug\thread.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+);

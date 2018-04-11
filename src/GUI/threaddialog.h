@@ -1,0 +1,4 @@
+#ifndef THREADDIALOG_H
+#define THREADDIALOG_H
+
+#endif // THREADDIALOG_H

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mystring.o
+./release\avl.o
+./release\term.o
+./release\mystack.o
+./release\others.o
+./release\thread.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+);

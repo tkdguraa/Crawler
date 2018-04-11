@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>Waagle.jpg</file>
+        <file>loading2.gif</file>
+        <file>loading.gif</file>
+        <file>next.jpg</file>
+    </qresource>
+</RCC>
